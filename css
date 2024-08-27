@@ -1,0 +1,48 @@
+/* Estiliza o corpo do documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Estilo do título principal */
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo dos títulos secundários */
+h2 {
+    color: red;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo dos parágrafos */
+p {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Estiliza a tag pre e code para exibir o código */
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+code {
+    display: block;
+    white-space: pre-wrap; /* Faz com que o código não quebre a linha */
+}
+
+/* Estilo básico para imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
